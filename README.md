@@ -10,3 +10,5 @@
 #3 Calculamos o produto escalar do vetor resultado e 2*u. Para isso, multiplicamos cada componente de resultado pela componente correspondente de 2*u e somamos os resultados.
 
 #4 Finalmente, imprimimos o resultado na tela, indicando qual é a operação realizada. Neste caso, o resultado é 702.
+
+Para demonstrar o que foi feito, escrevemos um código em python que está nesse repositório
